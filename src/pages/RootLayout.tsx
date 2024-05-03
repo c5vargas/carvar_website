@@ -3,7 +3,7 @@ import logo from "../assets/react.svg"
 export function RootLayout() {
 	return (
 		<>
-			<header className="flex items-center px-10 py-4 w-full bg-gray-900 fixed z-50 top-0 left-0 bg-opacity-50">
+			<header className="flex items-center px-10 py-4 w-full bg-gray-900 fixed z-20 top-0 left-0 bg-opacity-50">
 				<picture>
 					<img src={logo} className="w-14" alt="Logo" />
 				</picture>
@@ -13,9 +13,9 @@ export function RootLayout() {
 				<Outlet />
 			</main>
 
-			<footer className="fixed p-2 bg-gray-50 shadow bottom-0 left-0 w-full">
+			{/* <footer className="fixed p-2 bg-gray-50 shadow bottom-0 left-0 w-full z-20">
 				Lorem ipsum footer
-			</footer>
+			</footer> */}
 		</>
 	)
 }

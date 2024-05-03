@@ -1,0 +1,70 @@
+@font-face {
+	font-family: 'Approach Mono TRIAL';
+	src: url('./ApproachMono/ApproachMonoTRIAL-Rg.woff2') format('woff2'),
+			url('./ApproachMono/ApproachMonoTRIAL-Rg.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Approach Mono TRIAL';
+	src: url('./ApproachMono/ApproachMonoTRIAL-Md.woff2') format('woff2'),
+			url('./ApproachMono/ApproachMonoTRIAL-Md.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Approach Mono TRIAL';
+	src: url('./ApproachMono/ApproachMonoTRIAL-Bd.woff2') format('woff2'),
+			url('./ApproachMono/ApproachMonoTRIAL-Bd.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Approach Mono TRIAL';
+	src: url('./ApproachMono/ApproachMonoTRIAL-Blk.woff2') format('woff2'),
+			url('./ApproachMono/ApproachMonoTRIAL-Blk.woff') format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Approach Mono TRIAL';
+	src: url('./ApproachMono/ApproachMonoTRIAL-Lt.woff2') format('woff2'),
+			url('./ApproachMono/ApproachMonoTRIAL-Lt.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Approach Mono TRIAL';
+	src: url('./ApproachMono/ApproachMonoTRIAL-SmBd.woff2') format('woff2'),
+			url('./ApproachMono/ApproachMonoTRIAL-SmBd.woff') format('woff');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Ramsey Semi Bold Extd';
+	src: url('./Ramsey/Ramsey-SemiBoldExtendedItalic.woff2') format('woff2'),
+			url('./Ramsey/Ramsey-SemiBoldExtendedItalic.woff') format('woff');
+	font-weight: 600;
+	font-style: italic;
+	font-display: swap;
+}
+
+.f-ramsey {
+	font-family: 'Ramsey Semi Bold Extd', sans-serif;
+}
+
+.f-mono {
+	font-family: 'Approach Mono TRIAL', sans-serif;
+}
