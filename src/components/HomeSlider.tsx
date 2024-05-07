@@ -7,31 +7,29 @@ function HomeSlider() {
 			<div className="absolute z-50 p-10 top-20 w-full grid grid-cols-1 gap-4 md:grid-cols-3 md:gap-0 md:z-0 md:bg-transparent">
 				<article className="border-[1px] p-4 border-gray-100">
 					<h1 className="text-3xl f-mono">WWW.CARVAR.ES</h1>
-					<p className="text-sm leading-4 f-mono">Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-						Eaque repellat id adipisci.</p>
+					<p className="text-sm leading-4 f-mono">Explora mi portafolio y descubre cómo podemos trabajar juntos para llevar tu proyecto al siguiente nivel.</p>
 				</article>
 
 				<article className="border-t border-gray-100 hidden md:block" />
 
 				<article className="border-[1px] p-4 border-gray-100 hidden md:block">
 					<h1 className="text-3xl f-mono">Frontend Developer</h1>
-					<p className="text-xs leading-4 f-mono">Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-						Eaque repellat id adipisci ipsum dolor sit amet consectetur, adipisicing elit. </p>
+					<p className="text-xs leading-4 f-mono">Mi objetivo es fusionar la estética con la funcionalidad para crear 
+					experiencias de usuario cautivadoras y altamente efectivas. ¿Tienes una idea en mente? ¡Déjame ayudarte a convertirla en realidad!</p>
 				</article>
 
 				<div className="text-xs my-10 f-mono hidden md:block">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br/>
-					Ducimus ab non voluptatum. Debitis deserunt incidunt <br/>
-					nostrum fugit, doloremque voluptate illum non cumque optio.
+						Me apasiona diseñar y codificar proyectos <br/> 
+						desde cero, creando interfaces intuitivas <br/> 
+						y atractivas que cautiven a los usuarios.
 				</div>
 			</div>
 
 			<div className="absolute p-10 bottom-10 w-full grid grid-cols-1 gap-2 md:gap-0 md:grid-cols-3 z-50 md:z-0">
 				<article>
-					<p className="text-sm leading-4 f-mono">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-					Ea commodi sit rem facere sequi reiciendis omnis, corporis, excepturi tenetur voluptas 
-					blanditiis incidunt autem numquam earum adipisci libero distinctio, consectetur praesentium.
-					consectetur adipisicing elit ea commodi sit rem facere sequi reiciendis omnis, corporis, excepturi.</p>
+					<p className="text-sm leading-4 f-mono">Considero que la simplicidad es una regla de oro en el diseño web. 
+					Mi enfoque se centra en estructuras de contenido simples, patrones de diseño limpios e interacciones 
+					reflexivas para brindar a tu audiencia una experiencia positiva y agradable.</p>
 				</article>
 
 				<article />
