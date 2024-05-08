@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://carvar.es/sitemap.xml

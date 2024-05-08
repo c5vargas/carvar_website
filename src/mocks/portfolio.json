@@ -1,20 +1,29 @@
 [
 	{
 		"name": "Rendfitt",
-		"descr": "Aplicación web que diseñé específicamente para profesionales de alto rendimiento. Con una interfaz moderna y amigable, mi enfoque se centra en maximizar la experiencia del usuario mientras trabajan hacia sus metas.",
+		"subTitle": "Tu mejor versión",
+		"extract": "Aplicación web que diseñé específicamente para profesionales de alto rendimiento. Con una interfaz moderna y amigable, mi enfoque se centra en maximizar la experiencia del usuario mientras trabajan hacia sus metas.",
+		"descr": "<p>Rendfitt es mucho más que una simple página web corporativa; es una plataforma diseñada con tecnología de vanguardia para ofrecer una experiencia óptima tanto para el entrenador como para sus clientes. Utilizando React.js, hemos creado una interfaz interactiva y receptiva que permite una navegación fluida y una experiencia de usuario excepcional. Además, hemos integrado react-router para gestionar la navegación entre páginas de manera eficiente y react-helmet para optimizar el SEO y mejorar la visibilidad en los motores de búsqueda.</p><p>Este proyecto demuestra mi capacidad para utilizar tecnologías modernas de frontend para desarrollar soluciones web efectivas y orientadas al rendimiento. Al presentar Rendfitt en mi portfolio, destaco mi habilidad para crear experiencias digitales de alta calidad que se adaptan a las necesidades específicas del cliente, en este caso, un entrenador deportivo de élite que trabaja con jugadores profesionales de fútbol.</p>",
 		"stack": "React.js",
-		"image": "rendfitt.webp"
+		"images": ["rendfitt.webp", "rendfitt-1.webp", "rendfitt-2.webp", "rendfitt-3.webp"],
+		"link": "https://rendfitt.com"
 	},
 	{
 		"name": "Hacoo_Hunt",
-		"descr": "Proyecto web creado para facilitar la búsqueda de productos destacados en la plataforma Hacoo Saramart. Mi contribución incluye el desarrollo de una interfaz intuitiva que permite a los usuarios encontrar rápidamente los artículos más populares.",
+		"subTitle": "Hacoo Saramart product finder",
+		"extract": "Proyecto web creado para facilitar la búsqueda de productos destacados en la plataforma Hacoo Saramart. Mi contribución incluye el desarrollo de una interfaz intuitiva que permite a los usuarios encontrar rápidamente los artículos más populares.",
+		"descr": "<p>Hacoo Hunt es más que una simple página web; es una puerta de entrada a los mejores productos de Hacoo Saramart, optimizada para una experiencia de usuario superior. Mi contribución incluye el desarrollo de una interfaz intuitiva utilizando React.js, que permite a los usuarios encontrar rápidamente los artículos más populares. En el backend, hemos utilizado Laravel para crear un servidor API Rest robusto y escalable, mientras que en el frontend hemos empleado TailwindCSS para un diseño elegante y receptivo. Además, hemos integrado react-helmet para optimizar el SEO y mejorar la visibilidad en los motores de búsqueda.</p><p>Este proyecto ejemplifica mi habilidad para crear soluciones web completas utilizando una variedad de tecnologías frontend y backend. Presentar Hacoo Hunt en mi portfolio destaca mi capacidad para diseñar y desarrollar experiencias digitales de alta calidad que se destacan en un mercado competitivo como el comercio electrónico.</p>",
 		"stack": "React.js · API Laravel",
-		"image": "hhunt.webp"
+		"images": ["hhunt.webp", "hhunt-1.webp", "hhunt-2.webp", "hhunt-3.webp", "hhunt-4.webp"],
+		"link": "https://hhunt.es"
 	},
 	{
 		"name": "Vilarenc_Aqua",
-		"descr": "Página web corporativa de Vilarenc Aqua, plataforma que incluye horarios detallados de actividades dirigidas por monitores, salas de entrenamiento y programas específicos.",
+		"subTitle": "Centro deportivo",
+		"extract": "Página web corporativa de Vilarenc Aqua, plataforma que incluye horarios detallados de actividades dirigidas por monitores, salas de entrenamiento y programas específicos.",
+		"descr": "<p>Vilarenc Aqua no es solo una página web corporativa; es una plataforma dinámica y multifuncional desarrollada con las últimas tecnologías. Utilizando PHP y el framework Laravel en el backend, hemos creado una base sólida y segura para gestionar la complejidad de un gimnasio activo. En el frontend, hemos implementado VueJS para ofrecer una interfaz interactiva y fluida que permite a los usuarios explorar las actividades y horarios con facilidad. Además, hemos utilizado Bootstrap para garantizar que la página sea receptiva y compatible con dispositivos móviles.</p><p>Este proyecto demuestra mi capacidad para utilizar un amplio espectro de tecnologías frontend y backend para desarrollar soluciones web completas y orientadas al usuario. Al presentar Vilarenc Aqua en mi portfolio, destaco mi habilidad para crear experiencias digitales que satisfacen las necesidades específicas de un negocio dinámico como un gimnasio, proporcionando una plataforma intuitiva y funcional para clientes y administradores por igual</p>",
 		"stack": "VueJS · API Laravel",
-		"image": "vilarenc.webp"
+		"images": ["vilarenc.webp", "vilarenc-1.webp", "vilarenc-2.webp", "vilarenc-3.webp", "vilarenc-4.webp"],
+		"link": "http://vilarenc-aqua.com"
 	}
 ]

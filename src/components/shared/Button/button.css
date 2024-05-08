@@ -1,5 +1,5 @@
 .cybr-btn {
-  --primary: hsl(var(--primary-hue), 85%, calc(var(--primary-lightness, 50) * 1%));
+  --primary: hsl(287.31deg 80% 53.39%);
   --shadow-primary: hsl(var(--shadow-primary-hue), 90%, 50%);
   --primary-hue: 0;
   --primary-lightness: 50;
@@ -35,12 +35,7 @@
   line-height: 75px;
   transition: background 0.2s;
 }
-.cybr-btn:hover {
-  --primary: hsl(var(--primary-hue), 85%, calc(var(--primary-lightness, 50) * 0.8%));
-}
-.cybr-btn:active {
-  --primary: hsl(var(--primary-hue), 85%, calc(var(--primary-lightness, 50) * 0.6%));
-}
+
 .cybr-btn:after,
 .cybr-btn:before {
   content: '';
