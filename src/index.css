@@ -1,12 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@keyframes blurry-pixel-animation {
-	0% {
-			transform: translate(-2px, -2px);
-	}
-	100% {
-			transform: translate(2px, 2px);
-	}
-}

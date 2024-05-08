@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Rendfitt",
+		"descr": "Aplicación web que diseñé específicamente para profesionales de alto rendimiento. Con una interfaz moderna y amigable, mi enfoque se centra en maximizar la experiencia del usuario mientras trabajan hacia sus metas.",
+		"stack": "React.js",
+		"image": "rendfitt.webp"
+	},
+	{
+		"name": "Hacoo_Hunt",
+		"descr": "Proyecto web creado para facilitar la búsqueda de productos destacados en la plataforma Hacoo Saramart. Mi contribución incluye el desarrollo de una interfaz intuitiva que permite a los usuarios encontrar rápidamente los artículos más populares.",
+		"stack": "React.js · API Laravel",
+		"image": "hhunt.webp"
+	},
+	{
+		"name": "Vilarenc_Aqua",
+		"descr": "Página web corporativa de Vilarenc Aqua, plataforma que incluye horarios detallados de actividades dirigidas por monitores, salas de entrenamiento y programas específicos.",
+		"stack": "VueJS · API Laravel",
+		"image": "vilarenc.webp"
+	}
+]
