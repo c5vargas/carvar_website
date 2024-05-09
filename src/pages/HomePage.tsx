@@ -6,7 +6,6 @@ import stackJSON from "../mocks/stack.json"
 import portfolioJSON from "../mocks/portfolio.json"
 import { useState } from "react";
 import { Project } from "../types";
-import { ArrowUpRight } from "../components/shared/Icons";
 
 export function HomePage() {
 	const [modal, setModal] = useState<Project | null>(null)
