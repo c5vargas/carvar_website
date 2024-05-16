@@ -8,7 +8,7 @@ function AboutMeCard() {
 			<article className="flex flex-col py-20 min-h-[300px] md:flex-row md:items-center md:justify-end gap-12 bg-cover shadow-lg border-b border-gray-950 bg-top" style={{backgroundImage: `url(${sphere})`}}>
 				<div className='hidden md:block h-[512px] w-[512px] w-full bg-contain bg-no-repeat' style={{backgroundImage: `url(${aboutMe})`}}></div>
 
-				<div className="flex flex-col gap-4 max-w-[500px] w-full rounded-2xl border p-8 border-gray-50 bg-gray-900 bg-opacity-75">
+				<div className="flex flex-col gap-4 max-w-[500px] w-full rounded-2xl border p-8 border-gray-50 bg-gray-950 bg-opacity-75">
 					<div className='h-10 w-full bg-contain' style={{backgroundImage: `url(${barcode})`}}></div>
 					<h2 className="f-ramsey font-semibold text-4xl uppercase">Detrás de la Pantalla</h2>
 					<p className="f-mono">Con una mentalidad centrada en el usuario y un ojo meticuloso para el detalle, 
