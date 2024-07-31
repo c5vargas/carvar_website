@@ -14,7 +14,7 @@
 		"extract": "Agencia de vacaciones que ofrece una selección de villas y apartamentos únicos, diseñados para ofrecer una experiencia de viaje inmersiva y memorable.",
 		"descr": "<p>Xeckin Holidays es más que una simple agencia de vacaciones; es un portal que te conecta con alojamientos únicos y auténticos, seleccionados cuidadosamente para garantizar calidad, confort y seguridad. Con un enfoque en la atención al cliente y la inmersión cultural, cada villa y apartamento ha sido verificado para ofrecer una experiencia de viaje que te haga sentir como en casa.</p><p>Este proyecto ha sido desarrollado utilizando NextJS y Tailwindcss, y está desplegado en Vercel. Además, es un sitio web multiidioma con SEO optimizado para asegurar su visibilidad en los primeros resultados de Google. Al incluir Xeckin Holidays en mi portfolio, demuestro mi capacidad para crear plataformas web de alta calidad que se adaptan a las necesidades del sector turístico, ofreciendo soluciones que combinan tecnología moderna y un diseño enfocado en el usuario.</p>",
 		"stack": "NextJS, Tailwindcss",
-		"images": ["xeckin.avif", "xeckin-1.avif", "xeckin-2.avif", "xeckin-3.avif", "xeckin-4.avif"],
+		"images": ["xeckin.avif", "xeckin-1.avif", "xeckin-2.avif", "xeckin-3.avif", "xeckin-4.avif", "xeckin-5.avif"],
 		"link": "https://xeckinholidays.com"
 	},
 	{
